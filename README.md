@@ -2,7 +2,11 @@
 It is a chrome extension for a web browser that tells you about the stuff in the current web page
 
 **Functionality**
-  1. 
+  1. Will provide a search bar to "search for a keyword" that one might need but cannot find.
+  2. Gives a popup warning if the mouse is above a button for more than 1 sec (predicting a click)that contains a link to another website or contains a download attribute.
+  3.  This will reduce the possibility of an accidental download or redirect that might be harmful.
+  4.  It also highlights the icons or the texts which match the searched keyword.
+ 
  
  **Getting Started**
   1. Go to your search bar in Google and type chrome://extensions. It will take you to the extensions page
