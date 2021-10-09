@@ -1,4 +1,9 @@
+<p align="center">
+<img src="https://github.com/ANIRUDH-VADERA/WEB_ASSISTANT/blob/main/logo.jpeg?raw=true"></img>
+</p>
+
 # WEB_ASSISTANT
+
 It is a chrome extension for a web browser that tells you about the stuff in the current web page
 
 **Functionality**
